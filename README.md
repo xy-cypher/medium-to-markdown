@@ -1,7 +1,7 @@
 # Medium to markdown
 [![npm](https://img.shields.io/npm/v/medium-to-markdown.svg)](https://npmjs.com/package/medium-to-markdown) [![npm](https://img.shields.io/npm/l/medium-to-markdown.svg)]()
 
-This module lets you take a medium post and convert it to markdown.
+This module lets you take a medium (also works for substack.com) post and convert it to markdown.
 
 ### Command Line Usage
 
