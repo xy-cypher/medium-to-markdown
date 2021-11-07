@@ -1,6 +1,12 @@
 # Medium to markdown
 [![npm](https://img.shields.io/npm/v/medium-to-markdown.svg)](https://npmjs.com/package/medium-to-markdown) [![npm](https://img.shields.io/npm/l/medium-to-markdown.svg)]()
 
+## Dont use Windows Powershell
+
+7.11.2021: Use classic cmd.exe so that emojies are perfectly preserved as in the source (lesson learnt i.e. from fetching https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
+
+### Note: Run `npm audit fix` after install to remove vulnerabilities
+
 This module lets you take a medium (also works for substack.com) post and convert it to markdown.
 
 ### Command Line Usage
